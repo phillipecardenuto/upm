@@ -1,0 +1,17 @@
+# Python 3.8
+# Install cyvlfeat
+# conda install -c conda-forge cyvlfeat   | https://github.com/menpo/cyvlfeat
+# conda install -c menpo opencv
+# this lib has a issue -> opencv-contrib-python==4.3.0.38; prefer installing trought conda
+tqdm
+pandas
+numpy
+scipy
+matplotlib
+pyvis
+networkx
+scikit-image
+scikit-learn
+imutils
+torch # pip install torch torchvision --extra-index-url https://download.pytorch.org/whl/cu116
+gdown
