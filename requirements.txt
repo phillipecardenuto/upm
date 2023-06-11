@@ -13,5 +13,6 @@ networkx
 scikit-image
 scikit-learn
 imutils
-torch # pip install torch torchvision --extra-index-url https://download.pytorch.org/whl/cu116
+#torch # pip install torch torchvision --extra-index-url https://download.pytorch.org/whl/cu116
 gdown
+pyyaml
