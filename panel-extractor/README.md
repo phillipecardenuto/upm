@@ -1,7 +1,13 @@
-# Panel Detection
-## Quick Start
+# Panel Extractor 
+In this directory, we present our solution for extracting panels from scientific images.
+Our model can delimitate the regions of interest of a scientific images with multiple 
+panels. It will simply extract all panels into a output directory, along with a 
+csv file that classify each panel within Blots, Graphs, Microscopy, Body Imagery, and
+Flow Cytometry images, the most concerned types of panes for scientific integrity.
 
-### 1. Get docker image
+## Quick Start
+We set up a docker image quickly use and reproduce our results.
+### 1. Get docker
 
 1.1 Pull from DockerHub:
 
@@ -59,7 +65,7 @@ Arguments
 
 ---
 # Model training
-For training the mode, we annotated a dataset of 3,836 figures of which 3,236 figures (32,507 panels) were used for training and  600 figures (4,888 panels) for testing.
+For training the model, we annotated a dataset of 3,836 figures of which 3,236 figures (32,507 panels) were used for training and  600 figures (4,888 panels) for testing.
 The dataset is freely available at this [link](https://drive.google.com/file/d/1ahGR_-Kcdux_CpWZi9f-6CTMUkJKsfph/view?usp=sharing).
 
 ### Training
