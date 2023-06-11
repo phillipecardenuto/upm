@@ -9,7 +9,7 @@
    docker pull phillipecardenuto/panel-detection:latest
    ```
 
-1.2 Or Build the from Dockerfile
+1.2 (optional) Build the from Dockerfile
    ```
    ./build.sh
    ```
@@ -57,8 +57,8 @@ Arguments
 ```
 
 
-
-## Model training
+---
+# Model training
 For training the mode, we annotated a dataset of 3,836 figures of which 3,236 figures (32,507 panels) were used for training and  600 figures (4,888 panels) for testing.
 The dataset is freely available at this [link](https://drive.google.com/file/d/1ahGR_-Kcdux_CpWZi9f-6CTMUkJKsfph/view?usp=sharing).
 
@@ -66,11 +66,14 @@ The dataset is freely available at this [link](https://drive.google.com/file/d/1
 For training the model, we fine-tuned yolov5 `yolov5x6.pt` weights on our dataset.
 You can run train.py from yolov5 directory to reproduce our experiments.
 
-### Testing
+# Model Testing
 To reproduce our results:
 1. Download the dataset:
 `gdown --id 1ahGR_-Kcdux_CpWZi9f-6CTMUkJKsfph`
-2. Initiate a docker container from panel-extractor directory:
+2. Unzip dataset:
+`unzip panels-extraction-dataset.zip`
+
+3. Initiate a docker container from panel-extractor directory:
 ```
 docker run --rm -it \
     --userns=host \
@@ -80,7 +83,7 @@ docker run --rm -it \
     phillipecardenuto/panel-detection
 ```
 
-3. Run the test
+4. Run the test
 ```
 python test.py --data test.yaml --weights=/work/model_5_class.pt
 ```
