@@ -6,7 +6,7 @@ The repo is under construction and its code and annotated database will be relea
 
 ## Panel Extractor
 
-<img src=".figs/panel-extract-fig.png" alt="Panel Extraction Sample" width="450" height="350">
+<img src=".figs/panel-extractor-fig.png" alt="Panel Extraction Sample" width="450" height="350">
 
 Panel extraction is essential to focus on the image regions of interest to the scientific integrity problem, and filter out those that might raise false alarms due to their intrinsic similarity (e.g., diagrams, drawings, and legend indicative letters).
 We collected and annotated 3,836 biomedical scientific figures under creative commons license from different journals, creating a dataset of 3,236 figures (32,507 panels) for training the detector of panels, and 600 figures (4,888 panels) for testing it.
