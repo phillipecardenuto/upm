@@ -4,7 +4,7 @@ The implemented method runs the descriptors in parallel for each image within th
 
 There are a variety of descriptors implemented, but we recommend using VLFeat SIFT with 
 Histogram Equalization, which provides the best descriptor for scientific images,
-according our [ablation study](ablation)
+according our [ablation study](ablation).
 Set the flag `descriptor=vlfeat_sift_heq` for selecting such descriptor.
 
 
