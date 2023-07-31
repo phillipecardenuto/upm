@@ -21,7 +21,7 @@ We collected and annotated 3,836 biomedical scientific figures under creative co
 | Flow Cytometry   |   600  |   249  |  0.948  |  0.976  |  0.973  |    0.953    |
 
 The [Panel Extractor README](panel-extractor/README.md) provides instructions to reproduce our 
-results and to download our the dataset.
+results and to download our dataset.
 
 ##### AUTHORS
 
