@@ -1,0 +1,1 @@
+[Link to Notebook](https://nbviewer.org/github/phillipecardenuto/upm/blob/main/parameters-investigation/parameters-study.ipynb)
