@@ -295,6 +295,50 @@ def joined_group_recall (panel, predicted_groups, annotated_groups):
 ###########################################################
 
 ### GLOBAL METRICS
+
+def global_precision_per_class(predicted_groups, annotated_groups, _class):
+    """
+    Finds the global precision of the predicted panels
+    """
+
+    true_positives = 0
+    false_positives = 0
+
+    for panels in predicted_groups.values():
+        for panel in panels:
+            if not _class.lower() in panel.lower():
+                continue
+            if find_annotated_panel_group(panel, annotated_groups):
+                true_positives+=1
+            else:
+                false_positives +=1
+    if true_positives == 0:
+        return 0
+    precision = true_positives / (true_positives + false_positives)
+    return precision
+
+def global_recall_per_class(predicted_groups, annotated_groups, _class):
+    """
+    Finds the global recall of the predicted panels
+    """
+
+    true_positives = 0
+    false_negatives = 0
+
+    for panels in annotated_groups.values():
+        for panel in panels['nodes']:
+            panel = panel['panel']
+            if not _class.lower() in panel.lower():
+                continue
+            if find_predicted_panel_group(panel, predicted_groups):
+                true_positives+=1
+            else:
+                false_negatives+=1
+    if true_positives == 0:
+        return 0
+    recall = true_positives / (true_positives + false_negatives)
+    return recall 
+
 def global_precision(predicted_groups, annotated_groups, ignore_graphs=False):
     """
     Finds the global precision of the predicted panels
@@ -312,6 +356,8 @@ def global_precision(predicted_groups, annotated_groups, ignore_graphs=False):
                 true_positives+=1
             else:
                 false_positives +=1
+    if true_positives == 0:
+        return 0
 
     precision = true_positives / (true_positives + false_positives)
     return precision
@@ -335,6 +381,8 @@ def global_recall(predicted_groups, annotated_groups, ignore_graphs=False):
             else:
                 false_negatives+=1
 
+    if true_positives == 0:
+        return 0
     recall = true_positives / (true_positives + false_negatives)
     return recall 
 
