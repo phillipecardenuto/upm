@@ -1,0 +1,19 @@
+# Python 3.8
+# Install cyvlfeat
+# conda install -c conda-forge cyvlfeat   | https://github.com/menpo/cyvlfeat
+# conda install -c menpo opencv (If not possible install trough pip, use conda)
+
+opencv-contrib-python
+tqdm
+pandas
+numpy
+scipy
+matplotlib
+pyvis
+networkx
+scikit-image
+scikit-learn
+imutils
+torch
+torchvision
+
