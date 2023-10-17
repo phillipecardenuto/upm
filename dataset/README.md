@@ -25,3 +25,8 @@ This directory contains metadata essential for downloading articles, figures, an
 - `spm/spm-annotation.json`: Comprehensive information on the stock-photo-papermill dataset, including annotations for '_id,' 'title,' 'doi,' 'pmid,' 'abstract,' 'url,' 'docPath,' 'publisher,' 'publishedDate,' 'figures,' and 'panels.'
 - `annotated_panels/*-metadata.csv`: Metadata for the dataset used in training the panel extractor solution. These data were incorporated into SPP to create SPP-v1.
 - `extracted_panels/extracted_panels.csv`: Metadata for all articles added to SPP-v1, contributing to the creation of SPP-V2.
+
+
+
+## Dataset Issues
+If you face any issues while downloading and organizing the data, please contact the corresponding author (Phillipe Cardenuto).
