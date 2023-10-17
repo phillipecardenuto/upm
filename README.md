@@ -16,7 +16,7 @@ We tested the herein solution in the [Stock Photo Paper Mill](https://scienceint
 | Extended SPP (v2)     |   4725     |  5303    | 47540    |
 
 
-The proposed solution outperformed similar approaches that tries unveil reused and manipulated on
+The proposed solution outperformed similar approaches that tries to unveil reused and manipulated on
 the scientific domain.
 
 | SPP-v2 Image Results |   SILA[1]   |  BSRD[2]  |   Ours   |
