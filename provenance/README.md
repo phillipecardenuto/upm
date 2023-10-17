@@ -114,7 +114,7 @@ Evaluates if a method could accurately find duplication across panels.
 <div>
 <img src="../.figs/content-pairing.png" alt="CONTENT PAIRING" width="100" height="100"/>
 
-| Dataset     | #Distractors | BSRD | SILA | Proposed |
+| Dataset     | #Distractors | BSRD[1] | SILA[2] | Proposed |
 |-------------|--------------|-------|--------|----------|
 | SPP          | 0            | 0.54  | 0.72   | **0.74**     |
 | Ext SPP-V1  | ~8,000       | 0.25  | 0.66   | **0.74**     |
@@ -129,7 +129,7 @@ Evaluates if a method could accurately find nodes withing a group of shared cont
 <img src="../.figs/content-grouping.png" alt="CONTENT PAIRING" width="100" height="100"/>
 
 
-| Dataset     | #Distractors | BSRD | SILA | Proposed |
+| Dataset     | #Distractors | BSRD[1] | SILA[2] | Proposed |
 |-------------|--------------|-------|--------|----------|
 | SPP           | 0            | 0.81  | 0.81   | **0.84**     |
 | Ext SPP-V1  | ~8,000       | 0.24  | 0.74   | **0.84** |
@@ -142,14 +142,16 @@ Evaluates if a method could accurately point to mill's panels.
 <div>
 <img src="../.figs/content-classification.png" alt="CONTENT PAIRING" width="100" height="100"/>
 
-| Dataset     | #Distractors | BSRD | SILA | Proposed |
+| Dataset     | #Distractors | BSRD[1] | SILA[2] | Proposed |
 |-------------|--------------|-------|--------|----------|
-| SPP           | 0            | 0.87  | 0.80   | **0.91**     |
-| Ext SPP-V1  | ~8,000       | 0.44  | 0.77   | **0.91**     |
+| SPP           | 0            | 0.87  | 0.84   | **0.87**     |
+| Ext SPP-V1  | ~8,000       | 0.44  | 0.77   | **0.87**     |
 | Ext SPP-V2  | ~45,000      | 0.08  | 0.44   | **0.84**     |
 
 </div>
 
+[1] Acuna, D., Brookes, P.S.,  Kording, K.P. Bioscience-scale automated detection of figure element reuse (2018) https://doi.org/10.1101/269415 \
+[2] Moreira, D., Cardenuto, J.P., Shao, R. et al. SILA: a system for scientific image analysis. Sci Rep 12, 18306 (2022). https://doi.org/10.1038/s41598-022-21535-3 \
 ### Provenance Graph Visualization
 
 Graph visualization of one of the graph output.\

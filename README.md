@@ -16,27 +16,7 @@ We tested the herein solution in the [Stock Photo Paper Mill](https://scienceint
 | Extended SPP (v2)     |   4725     |  5303    | 47540    |
 
 
-The proposed solution outperformed similar approaches that tries to unveil reused and manipulated on
-the scientific domain.
-
-| SPP-v2 Image Results |   SILA[1]   |  BSRD[2]  |   Ours   |
-|---------------------------|----------|---------|----------|
-|      Classification      | 0.44     | 0.08    |  **0.84**     |
-|         Pairing           | 0.36     | 0.04    | **0.71**     |
-|         Grouping          | 0.42     | 0.02    | **0.81**     |
-
-
-
-| SPP-v2 Document Results |   SILA[1]  |  BSRD[2]  |   Ours   |
-|-----------------------------|----------|---------|----------|
-|     Classification          | 0.86     | 0.07    | 0.92     |
-|         Pairing             | 0.73     | 0.03    | 0.77     |
-|         Grouping            | 0.86     | 0.00    | 0.92     |
-
-[1] Moreira, D., Cardenuto, J.P., Shao, R. et al. SILA: a system for scientific image analysis. Sci Rep 12, 18306 (2022). https://doi.org/10.1038/s41598-022-21535-3 \
-[2] Acuna, D., Brookes, P.S.,  Kording, K.P. Bioscience-scale automated detection of figure element reuse (2018) https://doi.org/10.1101/269415
-
-Code and instruction to use our method are released at [provenance](https://github.com/phillipecardenuto/upm/tree/main/provenance) directory.
+Code and instructions to use our method are released at [provenance](https://github.com/phillipecardenuto/upm/tree/main/provenance) directory.
 
 ## Panel Extractor
 
