@@ -33,7 +33,7 @@ the scientific domain.
 |         Pairing             | 0.73     | 0.03    | 0.77     |
 |         Grouping            | 0.86     | 0.00    | 0.92     |
 
-[1] Moreira, D., Cardenuto, J.P., Shao, R. et al. SILA: a system for scientific image analysis. Sci Rep 12, 18306 (2022). https://doi.org/10.1038/s41598-022-21535-3
+[1] Moreira, D., Cardenuto, J.P., Shao, R. et al. SILA: a system for scientific image analysis. Sci Rep 12, 18306 (2022). https://doi.org/10.1038/s41598-022-21535-3 \
 [2] Acuna, D., Brookes, P.S.,  Kording, K.P. Bioscience-scale automated detection of figure element reuse (2018) https://doi.org/10.1101/269415
 
 Code and instruction to use our method are released at [provenance](https://github.com/phillipecardenuto/upm/tree/main/provenance) directory.
