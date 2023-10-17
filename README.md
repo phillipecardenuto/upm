@@ -38,12 +38,12 @@ The [Panel Extractor README](panel-extractor/README.md) provides instructions to
 results and to download the dataset.
 
 
-Disclaimer
+# Disclaimer
 > Thought the inhere tool can pinpoint to suspect systematic produced images and documents, its findings cannot be interpreted without the expertise of scientific integrity analysts.
 > If by any chance do you find any suspicious case, please, report it to local integrity organizations.
 
 
-##### Cite this Work
+# Cite this Work
 This work is currently under-review.
 
 João Phillipe Cardenuto, Daniel Moreira, Anderson Rocha et al. Unveiling Scientific Articles from Paper Mills with Provenance Analysis, 03 May 2023, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-2791141/v1]
