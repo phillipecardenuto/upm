@@ -1,0 +1,652 @@
+{
+    "0": {
+        "panel_path": "dataset/spm/Microscopy/10.1016_j.biopha.2017.06.084_fig3-008.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.1016/j.biopha.2017.06.084"
+    },
+    "1": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201711_13823_fig3-002.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201711_13823"
+    },
+    "2": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201711_13823_fig5-004.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201711_13823"
+    },
+    "3": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201903_17385_fig3-005.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201903_17385"
+    },
+    "4": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201905_17800_fig3-002.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201905_17800"
+    },
+    "5": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201908_18524_fig3-012.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201908_18524"
+    },
+    "6": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201908_18721_fig3-004.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201908_18721"
+    },
+    "7": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201908_18729_fig2-005.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201908_18729"
+    },
+    "8": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201910_19141_fig4-001.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201910_19141"
+    },
+    "9": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201910_19141_fig4-002.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201910_19141"
+    },
+    "10": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201911_19544_fig2-006.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201911_19544"
+    },
+    "11": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201911_19570_fig3-005.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201911_19570"
+    },
+    "12": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201911_19544_fig4-010.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201911_19544"
+    },
+    "13": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201911_19561_fig2-001.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201911_19561"
+    },
+    "14": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201912_19659_fig3-008.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201912_19659"
+    },
+    "15": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201912_19663_fig3-005.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201912_19663"
+    },
+    "16": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201912_19790_fig2-008.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201912_19790"
+    },
+    "17": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_202002_20171_fig3-008.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_202002_20171"
+    },
+    "18": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_202002_20177_fig3-001.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_202002_20177"
+    },
+    "19": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_202004_20819_fig3-004.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_202004_20819"
+    },
+    "20": {
+        "panel_path": "dataset/spm/Microscopy/29131257_fig2-001.png",
+        "panel_class": "Microscopy",
+        "doc_id": "29131257"
+    },
+    "21": {
+        "panel_path": "dataset/spm/Microscopy/31983116_fig2-004.png",
+        "panel_class": "Microscopy",
+        "doc_id": "31983116"
+    },
+    "22": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201911_19570_fig3-004.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201911_19570"
+    },
+    "23": {
+        "panel_path": "dataset/spm/Microscopy/10.1016_j.biopha.2017.06.084_fig2-012.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.1016/j.biopha.2017.06.084"
+    },
+    "24": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201908_18655_fig2-005.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201908_18655"
+    },
+    "25": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_201911_19557_fig3-004.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_201911_19557"
+    },
+    "26": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_202002_20161_fig2-006.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_202002_20161"
+    },
+    "27": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_202002_20350_fig3-007.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_202002_20350"
+    },
+    "28": {
+        "panel_path": "dataset/spm/Microscopy/10.26355_eurrev_202005_21312_fig3-005.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.26355/eurrev_202005_21312"
+    },
+    "29": {
+        "panel_path": "dataset/spm/Microscopy/10.3892_ol.2019.11222_fig3-009.png",
+        "panel_class": "Microscopy",
+        "doc_id": "10.3892/ol.2019.11222"
+    },
+    "30": {
+        "panel_path": "dataset/spm/Microscopy/31983116_fig2-001.png",
+        "panel_class": "Microscopy",
+        "doc_id": "31983116"
+    },
+    "31": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1064853_pbio.0030096.g006_1.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1064853"
+    },
+    "32": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1064853_pbio.0030096.g006_2.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1064853"
+    },
+    "33": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1064853_pbio.0030096.g006_3.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1064853"
+    },
+    "34": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1069665_pmed.0020070.g001_0.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1069665"
+    },
+    "35": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1069665_pmed.0020070.g001_1.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1069665"
+    },
+    "36": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1069665_pmed.0020070.g001_3.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1069665"
+    },
+    "37": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1069665_pmed.0020070.g001_4.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1069665"
+    },
+    "38": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1069665_pmed.0020070.g001_5.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1069665"
+    },
+    "39": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1262761_1475-2859-4-28-6_0.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1262761"
+    },
+    "40": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1484480_1465-9921-7-35-3_0.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1484480"
+    },
+    "41": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1550228_1471-2474-7-52-3_0.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1550228"
+    },
+    "42": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1550228_1471-2474-7-52-3_1.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1550228"
+    },
+    "43": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1550228_1471-2474-7-52-3_10.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1550228"
+    },
+    "44": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1550228_1471-2474-7-52-3_11.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1550228"
+    },
+    "45": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1550228_1471-2474-7-52-3_12.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1550228"
+    },
+    "46": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1550228_1471-2474-7-52-3_13.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1550228"
+    },
+    "47": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1550228_1471-2474-7-52-3_2.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1550228"
+    },
+    "48": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1550228_1471-2474-7-52-3_3.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1550228"
+    },
+    "49": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1550228_1471-2474-7-52-3_4.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1550228"
+    },
+    "50": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1550228_1471-2474-7-52-3_5.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1550228"
+    },
+    "51": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1550228_1471-2474-7-52-3_6.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1550228"
+    },
+    "52": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1550228_1471-2474-7-52-3_7.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1550228"
+    },
+    "53": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1550228_1471-2474-7-52-3_8.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1550228"
+    },
+    "54": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1550228_1471-2474-7-52-3_9.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1550228"
+    },
+    "55": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1563491_pbio.0040315.g006_10.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1563491"
+    },
+    "56": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1563491_pbio.0040315.g006_11.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1563491"
+    },
+    "57": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1563491_pbio.0040315.g006_12.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1563491"
+    },
+    "58": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1563491_pbio.0040315.g006_4.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1563491"
+    },
+    "59": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1563491_pbio.0040315.g006_5.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1563491"
+    },
+    "60": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1563491_pbio.0040315.g006_6.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1563491"
+    },
+    "61": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1563491_pbio.0040315.g006_7.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1563491"
+    },
+    "62": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1563491_pbio.0040315.g006_8.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1563491"
+    },
+    "63": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1563491_pbio.0040315.g006_9.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1563491"
+    },
+    "64": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1569827_1472-6750-6-38-6_0.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1569827"
+    },
+    "65": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1569827_1472-6750-6-38-6_1.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1569827"
+    },
+    "66": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1781431_1471-213X-7-3-3_0.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1781431"
+    },
+    "67": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1781431_1471-213X-7-3-3_1.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1781431"
+    },
+    "68": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1781431_1471-213X-7-3-3_10.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1781431"
+    },
+    "69": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1781431_1471-213X-7-3-3_11.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1781431"
+    },
+    "70": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1781431_1471-213X-7-3-3_12.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1781431"
+    },
+    "71": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1781431_1471-213X-7-3-3_13.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1781431"
+    },
+    "72": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1781431_1471-213X-7-3-3_16.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1781431"
+    },
+    "73": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1781431_1471-213X-7-3-3_17.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1781431"
+    },
+    "74": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1781431_1471-213X-7-3-3_18.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1781431"
+    },
+    "75": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1781431_1471-213X-7-3-3_2.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1781431"
+    },
+    "76": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1781431_1471-213X-7-3-3_4.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1781431"
+    },
+    "77": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1781431_1471-213X-7-3-3_5.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1781431"
+    },
+    "78": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1781431_1471-213X-7-3-3_7.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1781431"
+    },
+    "79": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1781431_1471-213X-7-3-3_8.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1781431"
+    },
+    "80": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1781431_1471-213X-7-3-3_9.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1781431"
+    },
+    "81": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1804299_MI2007-65873.001_0.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1804299"
+    },
+    "82": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1808117_pbio.0050067.g002_23.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1808117"
+    },
+    "83": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1808117_pbio.0050067.g002_24.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1808117"
+    },
+    "84": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1808117_pbio.0050067.g002_25.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1808117"
+    },
+    "85": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1808117_pbio.0050067.g002_26.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1808117"
+    },
+    "86": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1808117_pbio.0050067.g002_27.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1808117"
+    },
+    "87": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1808117_pbio.0050067.g002_28.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1808117"
+    },
+    "88": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1808117_pbio.0050067.g002_29.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1808117"
+    },
+    "89": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1808117_pbio.0050067.g002_30.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1808117"
+    },
+    "90": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1828067_1476-4598-6-18-2_0.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1828067"
+    },
+    "91": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1828067_1476-4598-6-18-2_1.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1828067"
+    },
+    "92": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1828067_1476-4598-6-18-2_10.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1828067"
+    },
+    "93": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1828067_1476-4598-6-18-2_11.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1828067"
+    },
+    "94": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1828067_1476-4598-6-18-2_12.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1828067"
+    },
+    "95": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1828067_1476-4598-6-18-2_13.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1828067"
+    },
+    "96": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1828067_1476-4598-6-18-2_2.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1828067"
+    },
+    "97": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1828067_1476-4598-6-18-2_4.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1828067"
+    },
+    "98": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1828067_1476-4598-6-18-2_6.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1828067"
+    },
+    "99": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1853234_pone.0000414.g001_2.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1853234"
+    },
+    "100": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1872031_1742-6413-4-9-10_1.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1872031"
+    },
+    "101": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1964761_1471-2407-7-111-1_6.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1964761"
+    },
+    "102": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1964761_1471-2407-7-111-1_7.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1964761"
+    },
+    "103": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1964761_1471-2407-7-111-1_8.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1964761"
+    },
+    "104": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1964761_1471-2407-7-111-1_9.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1964761"
+    },
+    "105": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1973087_1471-2105-8-274-7_0.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1973087"
+    },
+    "106": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1973087_1471-2105-8-274-7_1.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1973087"
+    },
+    "107": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1973087_1471-2105-8-274-7_2.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1973087"
+    },
+    "108": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1973087_1471-2105-8-274-7_3.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1973087"
+    },
+    "109": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1973087_1471-2105-8-274-7_4.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1973087"
+    },
+    "110": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1973087_1471-2105-8-274-7_5.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1973087"
+    },
+    "111": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC1973087_1471-2105-8-274-7_6.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC1973087"
+    },
+    "112": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC200975_1471-2369-4-7-2_0.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC200975"
+    },
+    "113": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_0.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    },
+    "114": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_1.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    },
+    "115": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_10.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    },
+    "116": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_11.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    },
+    "117": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_12.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    },
+    "118": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_13.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    },
+    "119": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_14.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    },
+    "120": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_15.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    },
+    "121": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_16.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    },
+    "122": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_17.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    },
+    "123": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_18.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    },
+    "124": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_19.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    },
+    "125": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_2.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    },
+    "126": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_20.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    },
+    "127": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_21.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    },
+    "128": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_22.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    },
+    "129": {
+        "panel_path": "dataset/annotated_panels/Microscopy/PMC2063955_jcb1760283f05_23.jpg",
+        "panel_class": "Microscopy",
+        "doc_id": "PMC2063955"
+    }
+}
