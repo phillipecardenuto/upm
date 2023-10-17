@@ -50,7 +50,7 @@ Within `'spm', 'spm-v1', and 'spm-v2'`, we include a JSON file that organizes th
 The proposed provenance solution uses a deep-neural network description of each 
 image for finding traces of manipulation/reuse. These descriptions are organized in the
 `<class>`-evidence-db.json file found at `'spm', 'spm-v1', and 'spm-v2'`.
-To generate these files, we use the script [create-evidence-db.py](ours/create-evidence-db.py).
+To generate these files, we use the script [create-evidence-db.py](src/create-evidence-db.py).
 
 ## Quick Run
 ### Installation
