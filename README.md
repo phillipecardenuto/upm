@@ -58,6 +58,9 @@ The [Panel Extractor README](panel-extractor/README.md) provides instructions to
 results and to download the dataset.
 
 
+Disclaimer
+> Thought the inhere tool can pinpoint to suspect systematic produced images and documents, its findings cannot be interpreted without the expertise of scientific integrity analysts.
+> If by any chance do you find any suspicious case, please, report it to local integrity organizations.
 
 
 ##### AUTHORS

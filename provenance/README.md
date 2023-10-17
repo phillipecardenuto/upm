@@ -5,7 +5,7 @@ manipulated images from scientific article.
 
 
 Disclaimer
-> Thought the inhere tool can pinpoint to suspect systematic produced images and documents, its output cannot be interpreted without the expertise of scientific integrity analysts.
+> Thought the inhere tool can pinpoint to suspect systematic produced images and documents, its findings cannot be interpreted without the expertise of scientific integrity analysts.
 > If by any chance do you find any suspicious case, please, report it to local integrity organizations.
 
 ## Datasets
