@@ -1,0 +1,8 @@
+[submodule "baseline/baseline/sila"]
+	path = baseline/baseline/sila
+	url = git@github.com:danielmoreira/sciint.git
+	branch = provenance-analysis
+[submodule "baseline/sila"]
+	path = baseline/sila
+	url = git@github.com:danielmoreira/sciint.git
+	branch = provenance-analysis
