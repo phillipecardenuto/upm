@@ -43,10 +43,18 @@ Disclaimer
 > If by any chance do you find any suspicious case, please, report it to local integrity organizations.
 
 
-##### AUTHORS
+##### Cite this Work
+This work is currently under-review.
 
-Phillipe Cardenuto, Daniel Moreira, and Anderson Rocha
-
+João Phillipe Cardenuto, Daniel Moreira, Anderson Rocha et al. Unveiling Scientific Articles from Paper Mills with Provenance Analysis, 03 May 2023, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-2791141/v1]
 ```
-                     UNICAMP (University of Campinas) RECOD.AI
+@article{Cardenuto2023,
+  doi = {10.21203/rs.3.rs-2791141/v1},
+  url = {https://doi.org/10.21203/rs.3.rs-2791141/v1},
+  year = {2023},
+  month = may,
+  publisher = {Research Square Platform {LLC}},
+  author = {Jo{\~{a}}o Phillipe Cardenuto and Daniel Moreira and Anderson Rocha},
+  title = {Unveiling Scientific Articles from Paper Mills with Provenance Analysis}
+}
 ```
