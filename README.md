@@ -48,13 +48,17 @@ This work is currently under-review.
 
 João Phillipe Cardenuto, Daniel Moreira, Anderson Rocha et al. Unveiling Scientific Articles from Paper Mills with Provenance Analysis, 03 May 2023, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-2791141/v1]
 ```
-@article{Cardenuto2023,
-  doi = {10.21203/rs.3.rs-2791141/v1},
-  url = {https://doi.org/10.21203/rs.3.rs-2791141/v1},
-  year = {2023},
-  month = may,
-  publisher = {Research Square Platform {LLC}},
-  author = {Jo{\~{a}}o Phillipe Cardenuto and Daniel Moreira and Anderson Rocha},
-  title = {Unveiling Scientific Articles from Paper Mills with Provenance Analysis}
+@article{cardenuto2024unveiling,
+    doi = {10.1371/journal.pone.0312666},
+    author = {Cardenuto, João Phillipe AND Moreira, Daniel AND Rocha, Anderson},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Unveiling scientific articles from paper mills with provenance analysis},
+    year = {2024},
+    month = {10},
+    volume = {19},
+    url = {https://doi.org/10.1371/journal.pone.0312666},
+    pages = {1-28},
+    number = {10},
 }
 ```
