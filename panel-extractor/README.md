@@ -24,7 +24,7 @@ We set up a docker image quickly use and reproduce our results.
 You may need to install gdown (`pip install gdown`)
 
 	```
-	gdown --id 1GGNsJ90VRey_FfuVpOkvikKd7Sbov0Cf
+	gdown --id 17r4oQelph-iskDarvsznlwEg6qwEJ0R8
 	```
 ### 3. Unzip models:
 	```
