@@ -75,7 +75,7 @@ You can run train.py from yolov5 directory to reproduce our experiments.
 # Model Testing
 To reproduce our results:
 1. Download the dataset:
-`gdown --id 1ahGR_-Kcdux_CpWZi9f-6CTMUkJKsfph`
+`gdown --id 1yPYO3_aM0vL4oFcQqkoXwgRMQmXGexJU`
 2. Unzip dataset:
 `unzip panels-extraction-dataset.zip`
 
