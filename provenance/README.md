@@ -20,7 +20,7 @@ The first extended version named `SPP extended v1` adds 969 scientific figures t
 The second extended version named `SPP extended v2` adds 3,836 scientific figures to
 the SPP extended v1, which includes more 37,397 panels.
 
-We organized all images that we use for evaluation at [spp-dataset.zip](https://drive.google.com/file/d/1gSY2z8GLlKZ1K0UnqJgZxnsUBLLueZi0/).
+We organized all images that we use for evaluation at [spp-dataset.zip](https://drive.google.com/file/d/1dpXCKhf4psp3ICwk2odHfCGU3j19QIR0/).
 After unzipping this file, we should encounter the following structure:
 
 ```bash
